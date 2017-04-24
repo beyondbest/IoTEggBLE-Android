@@ -36,8 +36,8 @@ import java.util.UUID;
  * This example demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
  * to transmit sensor data between ICS IoT Egg and Android.
  *
- * Temperature and humidity values are receiving from IoTEgg App via BLE.
- * And it can change the RGB LED color by transmitting LED value to IoTEgg App via BLE.
+ * Temperature and humidity values are receiving from IoTEgg Device via BLE.
+ * And it can change the RGB LED color by transmitting LED value to IoTEgg Device via BLE.
  *
  * ICS IoT Egg BLE Breakout Board has been designed by William Headley <w.headley@surrey.ac.uk>
  * - BLE RST pin: P0_5
